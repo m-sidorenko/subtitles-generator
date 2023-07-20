@@ -1,1 +1,1 @@
-# subtitles-auto-creator
+# The script to create subtitles for videos 📰
