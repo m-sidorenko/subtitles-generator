@@ -32,7 +32,12 @@ if __name__ == '__main__':
 
         vid_list.append(vid)
 
-        txt = TextClip(element["text"], fontsize = 28, color = 'white', bg_color = 'black', method = 'caption', size = (400, 200),  stroke_width = 4 ).set_duration(end - start)
+        txt = TextClip(element["text"], fontsize = 28, 
+                       color = 'white', bg_color = 'black', 
+                       method = 'caption', size = (400, 200),  
+                       stroke_width = 4 )
+        .set_duration(end - start)
+        
         txt = txt.set_pos('bottom', 'center')
         txt_list.append(txt)
        
