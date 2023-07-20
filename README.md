@@ -1,1 +1,3 @@
-# The script to create subtitles for videos 📽️
+# Sample code that makes subtitles and overlays them on the clip 📽️
+
+### I use `whisper` and `moviepy` packages  
