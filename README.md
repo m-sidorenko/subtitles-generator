@@ -1,1 +1,1 @@
-# The script to create subtitles for videos 📰
+# The script to create subtitles for videos 📽️
